@@ -30,7 +30,7 @@ namespace SlowpokeStudio.Services
                 Destroy(gameObject);
             }
 
-            InitializeServicesCheck();
+           //InitializeServicesCheck();
         }
 
         private void InitializeServicesCheck()

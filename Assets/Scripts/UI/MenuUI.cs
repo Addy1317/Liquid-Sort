@@ -12,7 +12,7 @@ namespace SlowpokeStudio.UI
 
         private void Awake()
         {
-            menuUI.SetActive(true);
+           // menuUI.SetActive(true);
         }
 
         private void OnEnable()
